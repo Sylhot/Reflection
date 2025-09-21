@@ -1,0 +1,1636 @@
+fileFormatVersion: 2
+guid: c043a25743892154b88d84dd37caecfe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VaporwaveFurniture_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 144
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df177e5a6566b14e864263a72c03a10
+      internalID: -1871930491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 432
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b18bdce2e550b45aedd7d8da5de7c3
+      internalID: -480927841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 432
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8332d7d964114a4db05f87b8cbd3784
+      internalID: 1927639231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 432
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300910ca712903944b31b633b8cec2a4
+      internalID: -1500545281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_4
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 432
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64e6ba43b441f34f8910b7fce819ee2
+      internalID: -327343110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_5
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 336
+        width: 127
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f0b912b5bee004b8c5a4cfb82153c7
+      internalID: -471404291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_6
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 444
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fe5bed27c8e3d478940c3582824958
+      internalID: 2025250717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_7
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 444
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e737a0dd7d365ce4381a3af569ab6c47
+      internalID: -1100997264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_8
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 444
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5620cbdd9855c479149619c7d76362
+      internalID: 1707852553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_9
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 444
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c361a58bd7a95844878f775e769b52b
+      internalID: 1128953236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_10
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 385
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd87077b17452f43a27a85d38103552
+      internalID: 72666640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_11
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 385
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff46b738973f2f54cb928eeb4f66b6be
+      internalID: 827653330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_12
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 384
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a9066de536aaf4795e236c048c3bc8
+      internalID: 652749019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_13
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 384
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d174190c530fa514d9efd06f407f37d9
+      internalID: -25319607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 384
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6091182573c688749a4c15f8104638b1
+      internalID: -1359451235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_15
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 384
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b00f0ba99fed9e4ea87eb1776b18412
+      internalID: -915077278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_16
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 384
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139a189c55d1b304cb3f73a864ae92dd
+      internalID: 1133071586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_17
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 396
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a327044c31f721499b7641eaace05c3
+      internalID: -466844749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_18
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 389
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca358ad143a83824b989d69094152dcd
+      internalID: -995899874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_19
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 396
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8611c6598720654d8bb599da0226675
+      internalID: 933862060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_20
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 389
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c24708c744329240b98a6d266e4621e
+      internalID: 1888257984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_21
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 369
+        width: 47
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d311fabe909187f42a1c3d044dd4d152
+      internalID: -1980030306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_22
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 336
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abcaa2b4d6f54347b85bb4719b923f4
+      internalID: 818065830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_23
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 337
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0f32528d8e389408af0bfb8b45fd28
+      internalID: -148520480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_24
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 347
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9455d8277029bd6469928850b6d86db8
+      internalID: 2062811655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_25
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 343
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ed286a403364541a1f312d01f94a6d
+      internalID: 281055962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_26
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 347
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02554de7b153ecf499f25ea5ad3773e9
+      internalID: 327350004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 318
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b188d43111a8fca4d941e414c437440d
+      internalID: 2145459491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_28
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 297
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45b89ebb4ab2a644a4bd7ac8a50a85e
+      internalID: -2042843656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 318
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d9d7086ba20ee44847d26579b69d31
+      internalID: 389655862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_30
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 297
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760d766d1edac2c48aeb618a440698ed
+      internalID: 1852037302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_31
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 295
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faf47a2be30c004ba32f4a51437d5a6
+      internalID: -50194184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_32
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 288
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3714566376f8aa4e84132bf36e907fb
+      internalID: 710223152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e99981e1b284c429b51cd0291d783d
+      internalID: 2075788489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_34
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 301
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507012a0754d7594085956e70794d27a
+      internalID: 935398646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 240
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782d2d4613432164da94f9b6bf3f865a
+      internalID: -144366344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_36
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 240
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3903580ddd66144ae6dc8665fbe3fa
+      internalID: -1919895058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 240
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e195ae55f84f54390306d45915e1b5
+      internalID: -919785958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 240
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8da6416ace95747bb68b7de68e544e
+      internalID: 1143813400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_39
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 240
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188661e586568bb438c2168bf46560ee
+      internalID: -1701824523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_40
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 204
+        width: 26
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb2553ae77dc514db9ed5478ebf337d
+      internalID: -1666779665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_41
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 192
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1f752671c97e9439745a4a281982c1
+      internalID: -1289248521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_42
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 192
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fe3336a7be72945841df023cbb5d97
+      internalID: 905872408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 144
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67da8d6f4837b94985cb1dc0d31d422
+      internalID: -137194299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_44
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 193
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257f1f775f0b41d419af54d939260f69
+      internalID: 2129691081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_45
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 194
+        width: 32
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb209ac3451484428ea0440e8991a39
+      internalID: -2042737074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_46
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 194
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa68507208b7fa04aa8c3d667023ed66
+      internalID: 1538900183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_47
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 219
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d8313c0a5be5e439606c2ed65fbd18
+      internalID: -31822868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_48
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 219
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a7525472561384fb4defa240e2575d
+      internalID: 1603389806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 193
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439444699316dba42bb5a30ebeb6b6f4
+      internalID: 165481764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_50
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 192
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b525bbeb5caec094bb25c48add9d271e
+      internalID: -1550953784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_51
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 192
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a72b54649c0030409e366a0edad9ab2
+      internalID: -187585369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 144
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e25f126a5873c4f88220afabf5f416
+      internalID: -1718818692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_53
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 144
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1f47fa1dc06eb4590ccc8f6726b998
+      internalID: -1694787872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 144
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df84bc2c55a93f64abcc32af136d6605
+      internalID: 548766943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 97
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6893ab3863520c845bea9850b3522268
+      internalID: 475773426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_56
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 96
+        width: 40
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba198d7cf95ea649b30e2925bbbc5fa
+      internalID: -2070414822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_57
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 96
+        width: 42
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a2d3f502f48b34cb237d18b44dff61
+      internalID: 1166910777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_58
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 97
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658ccabe638ea3b4c80b8b01b30acba6
+      internalID: -479151665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_59
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 111
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e19eba1d0449d46b7c05c4754fe156
+      internalID: 289446907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_60
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 113
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b6aa1dc514db948934e26fec1c97a9
+      internalID: -1189516234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 107
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc08798e081d9c44a3381ab433f672e
+      internalID: -1592354059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_62
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 114
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8297dc9887dc947b83f3fe8e936929
+      internalID: 1478164184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_63
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 71
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758354509f6cf2246a8b7bee316ae861
+      internalID: -830618929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_64
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 71
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bed9098bf9b71847b1f84fedbc51575
+      internalID: -97610126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_65
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 67
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7329beb3a628ae4c811024969d9e2a9
+      internalID: -572358666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_66
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 7
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9894dedb188966742946475bef7a2d51
+      internalID: -1226755200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VaporwaveFurniture_67
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdbfdc29bd798145a3dc294b5748aa7
+      internalID: 1092290188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      VaporwaveFurniture_0: -1871930491
+      VaporwaveFurniture_1: -480927841
+      VaporwaveFurniture_10: 72666640
+      VaporwaveFurniture_11: 827653330
+      VaporwaveFurniture_12: 652749019
+      VaporwaveFurniture_13: -25319607
+      VaporwaveFurniture_14: -1359451235
+      VaporwaveFurniture_15: -915077278
+      VaporwaveFurniture_16: 1133071586
+      VaporwaveFurniture_17: -466844749
+      VaporwaveFurniture_18: -995899874
+      VaporwaveFurniture_19: 933862060
+      VaporwaveFurniture_2: 1927639231
+      VaporwaveFurniture_20: 1888257984
+      VaporwaveFurniture_21: -1980030306
+      VaporwaveFurniture_22: 818065830
+      VaporwaveFurniture_23: -148520480
+      VaporwaveFurniture_24: 2062811655
+      VaporwaveFurniture_25: 281055962
+      VaporwaveFurniture_26: 327350004
+      VaporwaveFurniture_27: 2145459491
+      VaporwaveFurniture_28: -2042843656
+      VaporwaveFurniture_29: 389655862
+      VaporwaveFurniture_3: -1500545281
+      VaporwaveFurniture_30: 1852037302
+      VaporwaveFurniture_31: -50194184
+      VaporwaveFurniture_32: 710223152
+      VaporwaveFurniture_33: 2075788489
+      VaporwaveFurniture_34: 935398646
+      VaporwaveFurniture_35: -144366344
+      VaporwaveFurniture_36: -1919895058
+      VaporwaveFurniture_37: -919785958
+      VaporwaveFurniture_38: 1143813400
+      VaporwaveFurniture_39: -1701824523
+      VaporwaveFurniture_4: -327343110
+      VaporwaveFurniture_40: -1666779665
+      VaporwaveFurniture_41: -1289248521
+      VaporwaveFurniture_42: 905872408
+      VaporwaveFurniture_43: -137194299
+      VaporwaveFurniture_44: 2129691081
+      VaporwaveFurniture_45: -2042737074
+      VaporwaveFurniture_46: 1538900183
+      VaporwaveFurniture_47: -31822868
+      VaporwaveFurniture_48: 1603389806
+      VaporwaveFurniture_49: 165481764
+      VaporwaveFurniture_5: -471404291
+      VaporwaveFurniture_50: -1550953784
+      VaporwaveFurniture_51: -187585369
+      VaporwaveFurniture_52: -1718818692
+      VaporwaveFurniture_53: -1694787872
+      VaporwaveFurniture_54: 548766943
+      VaporwaveFurniture_55: 475773426
+      VaporwaveFurniture_56: -2070414822
+      VaporwaveFurniture_57: 1166910777
+      VaporwaveFurniture_58: -479151665
+      VaporwaveFurniture_59: 289446907
+      VaporwaveFurniture_6: 2025250717
+      VaporwaveFurniture_60: -1189516234
+      VaporwaveFurniture_61: -1592354059
+      VaporwaveFurniture_62: 1478164184
+      VaporwaveFurniture_63: -830618929
+      VaporwaveFurniture_64: -97610126
+      VaporwaveFurniture_65: -572358666
+      VaporwaveFurniture_66: -1226755200
+      VaporwaveFurniture_67: 1092290188
+      VaporwaveFurniture_7: -1100997264
+      VaporwaveFurniture_8: 1707852553
+      VaporwaveFurniture_9: 1128953236
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
